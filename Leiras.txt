@@ -1,0 +1,12 @@
+Mivel a csoport többi tagjával nem sikerült kommunikálnunk és emiatt nem tudtunk úgy haladni ahogy azt szerettük volna ezért ketten úgy döntöttünk hogy külön oldjuk meg a feladatot.
+A program jelentős részét C#-ban oldottuk meg mert az az egyetlen nyelv amit mind2-en használtunk már és valamilyen szinten ismerünk.
+ 
+Az app-ról:
+Egy egyszerű balloon popp játékra építettünk adatbázist a játékos neve és pontszámának eltárolásához, azt pedig kiírattuk egy weblapon html és php segítségével.
+
+Az app működéséhez a csatolt adatbázist importálni kell egy meglévő adatbázis szerverre.
+
+Dolgozott rajta:
+- Kós János Neptun kód: h35gqy
+- Kovács Kristóf Neptun kód: fpn6zt
+Jászberényi Campus
